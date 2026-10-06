@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\APSTI 4\\Gestionar Gastos\\Gestionar_Gastos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FCA8658F-49EC-432C-A36E-745C1395FE27}|Gestionar_Gastos\\Gestionar_Gastos.csproj|d:\\apsti 4\\gestionar gastos\\gestionar_gastos\\gestionar_gastos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FCA8658F-49EC-432C-A36E-745C1395FE27}|Gestionar_Gastos\\Gestionar_Gastos.csproj|solutionrelative:gestionar_gastos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\APSTI 4\\Gestionar Gastos\\Gestionar_Gastos\\Gestionar_Gastos\\Form1.cs",
+              "RelativeDocumentMoniker": "Gestionar_Gastos\\Form1.cs",
+              "ToolTip": "D:\\APSTI 4\\Gestionar Gastos\\Gestionar_Gastos\\Gestionar_Gastos\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Gestionar_Gastos\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T14:05:45.457Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
